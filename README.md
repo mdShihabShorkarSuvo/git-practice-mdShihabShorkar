@@ -6,4 +6,16 @@
 
 This project is created to practice Git and GitHub.
 
-It demonstrates basic Git commands, version control, branching, merging, and a simple Python program.
+It demonstrates:
+
+- Basic Git commands
+- Version control
+- Branching
+- Merging
+- Basic Python programming
+
+## Calculator Features
+
+- Addition
+- Subtraction
+- Multiplication
